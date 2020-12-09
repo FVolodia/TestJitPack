@@ -1,3 +1,4 @@
+include ':libB'
 include ':libA'
 include ':app'
 rootProject.name = "TestJitPack"
